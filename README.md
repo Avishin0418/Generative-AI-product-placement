@@ -17,6 +17,7 @@ pip install -r requirements.txt
 The AI model used for background generation is Stable Diffusion Inpainting. If not downloaded, it will be loaded automatically when running the script.
 
 #Run the script:
+
 python script.py  
 
 The program will ask for an input image of a product. It will remove the background and then generate a realistic background to blend the product into a natural-looking scene. The final output will be saved in the output folder.
